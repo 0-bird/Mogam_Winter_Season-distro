@@ -12,7 +12,7 @@
       "name": "모겜동 겨울방학",
       "description": "Mogam_Winter_Season Running Minecraft 1.21.4 (Fabric v0.17.3)",
       "icon": "https://raw.githubusercontent.com/0-bird/Mogam_Winter_Season-distro/main/serverimg.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "121.155.140.32",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -296,6 +296,16 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6391,
+            "url": "https://raw.githubusercontent.com/0-bird/Mogam_Winter_Season-distro/main/servers/Mogam_Winter_Season-1.21.4/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "Alittle_Axolotl.zip",
           "name": "Alittle_Axolotl.zip",
           "type": "File",
@@ -381,6 +391,16 @@
             "url": "https://raw.githubusercontent.com/0-bird/Mogam_Winter_Season-distro/main/servers/Mogam_Winter_Season-1.21.4/files/resourcepacks/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip",
             "MD5": "99cc6588027bd10150073c3fde01d89a",
             "path": "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 181,
+            "url": "https://raw.githubusercontent.com/0-bird/Mogam_Winter_Season-distro/main/servers/Mogam_Winter_Season-1.21.4/files/servers.dat",
+            "path": "servers.dat"
           }
         },
         {
