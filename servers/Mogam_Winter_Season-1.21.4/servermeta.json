@@ -1,0 +1,31 @@
+{
+  "$schema": "file:///D:/helios/Mogam_Winter_Season/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "모겜동 겨울방학",
+    "description": "Mogam_Winter_Season Running Minecraft 1.21.4 (Fabric v0.17.3)",
+    "icon": "https://raw.githubusercontent.com/0-bird/Mogam_Winter_Season-distro/main/serverimg.png",
+    "address": "121.155.140.32",
+    "discord": {
+      "shortId": "1456268683608330449",
+      "largeImageText": "모겜동 겨울방학",
+      "largeImageKey": "mogam"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.3"
+  },
+  "untrackedFiles": [
+    {
+        "appliesTo": ["files"],
+        "patterns": [
+          "options.txt",
+          "config/*",
+          "config/**/*",
+          "servers.dat"
+        ]
+    }
+  ]
+}
